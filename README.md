@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ayush singh
+- 👋 hey..!! ayush here I'm final year engineering student at babu banarasi Das University from the department of computer science .. 🧑‍🎓
+
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Full stack development
 -  I’m looking to collaborate on web dev projects
