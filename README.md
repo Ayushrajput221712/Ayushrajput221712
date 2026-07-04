@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning AI and ML
--  I’m looking to collaborate on web dev projects
+-  I’m looking to collaborate on POWER BI Projects.
 - 📫 How to reach me by: ayushsinghsengar719@gmail.com
 -🔺My motive is to merge my ideas and educational foundation with the practical and real time experience..🌐  
 
